@@ -1,0 +1,24 @@
+{
+  "status": 0,
+  "data": {
+    "password": "",
+    "username": "websdkuat@fecredit.com.vn",
+    "authorities": [
+      {
+        "authority": "ROLE_VYMO_WEBSDK"
+      }
+    ],
+    "accountNonExpired": true,
+    "accountNonLocked": true,
+    "credentialsNonExpired": true,
+    "enabled": true,
+    "moreInfo": {
+      "customerInfo": {}
+    },
+    "fullName": null,
+    "email": null,
+    "aggId": null,
+    "userCode": null,
+    "permissions": []
+  }
+}
